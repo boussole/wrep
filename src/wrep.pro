@@ -19,7 +19,7 @@
 #
 # https://github.com/boussole/wrep
 #
-# \file      setting_dialog.h
+# \file      Qt project
 # \copyright GNU Public License
 # \author    boussole
 ######################################################################
