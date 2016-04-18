@@ -1,0 +1,11 @@
+<RCC>
+   <qresource comment="png">
+      <file>res/png/play.png</file>
+      <file>res/png/stop.png</file>
+      <file>res/png/folder.png</file>
+      <file>res/png/gear.png</file>
+      <file>res/png/hint.png</file>
+      <file>res/png/happy.png</file>
+      <file>res/png/sad.png</file>
+   </qresource>
+</RCC>
